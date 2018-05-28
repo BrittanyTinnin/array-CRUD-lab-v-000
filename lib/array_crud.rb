@@ -6,7 +6,6 @@ def create_an_array
   my_array = ["green", "blue", "yellow", "orange"]
 end
 
-puts create_an_array.inspect
 
 def add_element_to_end_of_array(array, element)
 
